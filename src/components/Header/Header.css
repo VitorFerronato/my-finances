@@ -1,0 +1,13 @@
+.header_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.header_container h2 {
+  margin-left: 1rem;
+  font-weight: 500;
+  font-size: 2.2rem;
+  color: #dddcda;
+}
